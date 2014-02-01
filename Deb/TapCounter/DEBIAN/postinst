@@ -1,0 +1,9 @@
+#!/bin/sh
+
+killall touchCounter || true
+
+chmod +x /usr/bin/tapCounter
+
+chown 0:0 /System/Library/LaunchDaemons/com.laughing-buddha-software.tapCounter.plist
+
+launchctl load -w /System/Library/LaunchDaemons/com.laughing-buddha-software.tapCounter.plist

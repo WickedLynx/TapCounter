@@ -1,0 +1,8 @@
+Package: com.laughing-buddha-software.tapcounter
+Name: TapCounter
+Version: 0.1a
+Architecture: iphoneos-arm
+Description: This app keeps track of how many times you tap your screen.
+Maintainer: Harshad
+Author: Harshad
+Section: Utilities

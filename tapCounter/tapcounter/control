@@ -1,0 +1,10 @@
+Package: com.laughing-buddha-software.tapcounter
+Name: tapCounter
+Depends: 
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome tool of some sort!!
+Maintainer: Harshad
+Author: Harshad
+Section: System
+Tag: role::hacker

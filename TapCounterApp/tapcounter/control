@@ -1,0 +1,9 @@
+Package: com.laughing-buddha-software.tapCounterApp
+Name: TapCounter
+Depends: 
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome application!
+Maintainer: Harshad
+Author: Harshad
+Section: Utilities

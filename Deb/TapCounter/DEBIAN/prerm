@@ -1,0 +1,5 @@
+#!/bin/sh
+
+launchctl unload -w /System/Library/LaunchDaemons/com.laughing-buddha-software.tapCounter.plist || true
+
+killall tapCounter || true
